@@ -791,6 +791,7 @@
     .personal_contact {
         /* border: solid darkblue; */
         flex-direction: column;
+        padding: 0px;
     }
 
     .talk_box {
